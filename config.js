@@ -24,5 +24,6 @@ const CONFIG = {
     mess: 'I know 🥰. I love you so much 😘😘',
     messDesc: 'Call me so we can arrange what to do next...maybe massage.',
     btnAccept: 'Okay <3',
-    messLink: 'https://github.com/hlaluphi/To-Ms-K' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    messLink: 'https://github.com/hlaluphi/To-Ms-K',
+    nextPlaylist: 'https://www.youtube.com/watch?v=PXGycbkbtW0&list=PLQM5BaXEY9pAPrfosYU6jqDuN8t3FSDdd'
 }
