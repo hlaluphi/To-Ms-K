@@ -11,20 +11,28 @@ $(document).ready(function() {
 })
 
 function init() {
-    document.getElementById('titleWeb').innerHTML = CONFIG.titleWeb
-    $('#title').text(CONFIG.title)
-    $('#desc').text(CONFIG.desc)
-    $('#yes').text(CONFIG.btnYes)
-    $('#no').text(CONFIG.btnNo)
-
-    var xYes = (0.9 * $(window).width() - $('#yes').width() - $('#no').width()) / 2;
-    var xNo = xYes + $('#yes').width() + 0.1 * $(window).width();
-    var y = 0.75 * $(window).height();
-    $('#yes').css("left", xYes);
-    $('#yes').css("top", y);
-
-    $('#no').css("left", xNo);
-    $('#no').css("top", y);
+    document.getElementById('titleWeb').innerHTML = CONFIG.titleWeb;
+    $('#title').text(CONFIG.title);
+    $('#desc').text(CONFIG.desc);
+    $('#yes').text(CONFIG.btnYes);
+    $('#no').text(CONFIG.btnNo);
+    
+    // Position buttons below the description
+    requestAnimationFrame(() => {
+        const descBottom = $('#desc').offset().top + $('#desc').outerHeight();
+        const margin = 40; // Space between description and buttons
+        const y = descBottom + margin;
+        
+        const windowWidth = $(window).width();
+        const yesWidth = $('#yes').outerWidth();
+        const noWidth = $('#no').outerWidth();
+        
+        const xYes = (0.9 * windowWidth - yesWidth - noWidth) / 2;
+        const xNo = xYes + yesWidth + 0.1 * windowWidth;
+        
+        $('#yes').css({ left: xYes, top: y });
+        $('#no').css({ left: xNo, top: y });
+    });
 }
 
 function firstQuestion() {
