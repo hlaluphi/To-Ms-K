@@ -25,5 +25,5 @@ const CONFIG = {
     messDesc: 'Call me so we can arrange what to do next...maybe massage.',
     btnAccept: 'Okay <3',
     messLink: 'https://github.com/hlaluphi/To-Ms-K',
-    nextPlaylist: 'https://www.youtube.com/watch?v=PXGycbkbtW0&list=PLQM5BaXEY9pAPrfosYU6jqDuN8t3FSDdd'
+    nextPlaylist: 'https://www.youtube.com/watch?v=k6iaF433Ybc&list=PLSToQP3Lb2fWPMm6mcM8xL8c6wbRiZGgI'
 }
