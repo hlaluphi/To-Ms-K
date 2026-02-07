@@ -8,7 +8,7 @@ const CONFIG = {
     
     Click Continue to for a surprise`,
     btnIntro: 'Continue',
-    title: `I dont need a calenar to remind me to love you - 
+    title: `I dont need a calendar to remind me to love you - 
     you are my everyday Holiday, 
     my favourite season,
     my reason to smile when nothing else makes sense.
