@@ -8,13 +8,13 @@ const CONFIG = {
     
     Click Continue to for a surprise`,
     btnIntro: 'Continue',
-    title: '    I dont need a calenar to remind me to love you - 
+    title: `I dont need a calenar to remind me to love you - 
     you are my everyday Holiday, 
     my favourite season,
     my reason to smile when nothing else makes sense.
     
     If the world only gave me one day to show you what you mean to me,
-    I'd laugh... Because I've already made it my lifetime mission. 🥰',
+    I'd laugh... Because I've already made it my lifetime mission. 🥰`,
     desc: 'Can we Start over again? ',
     btnYes: 'Yes',
     btnNo: 'No',
