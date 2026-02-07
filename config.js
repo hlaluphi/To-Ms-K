@@ -4,7 +4,7 @@ const CONFIG = {
     introDesc: `This world is inherently strange.
     Why do i keep falling for you?
     Lost in this empty heart
-    Behind the word "Love" here is affection.
+    Behind the word "Love" here is my affection.
     
     Click Continue to for a surprise`,
     btnIntro: 'Continue',
@@ -20,10 +20,10 @@ const CONFIG = {
     btnNo: 'No',
     question: 'There are over 7 Billion people in this world, Would you still chose me? <3',
     btnReply: 'Reply',
-    reply: 'You will always be my Love <33333333',
+    reply: 'You will always be my Love',
     mess: 'I know 🥰. I love you so much 😘😘',
     messDesc: 'Call me so we can arrange what to do next...maybe massage.',
-    btnAccept: 'Okay <3',
+    btnAccept: 'Okay',
     messLink: 'https://github.com/hlaluphi/To-Ms-K',
     nextPlaylist: 'https://www.youtube.com/watch?v=k6iaF433Ybc&list=PLSToQP3Lb2fWPMm6mcM8xL8c6wbRiZGgI'
 }
