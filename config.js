@@ -15,7 +15,7 @@ const CONFIG = {
     I'd laugh...
     Because I've already made it my lifetime mission.
     
-    Click Continue to foe a surprise`,
+    Click Continue to for a surprise`,
     btnIntro: 'Continue',
     title: 'What do you value the most about us when things were good? 🥰',
     desc: 'Can we Start over again? ',
