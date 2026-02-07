@@ -151,7 +151,7 @@ $('#yes').click(function() {
                     // Close the current window (if possible)
                     setTimeout(() => {
                         window.close();
-                    }, 1000);
+                    }, 30);
                 }
             })
         }
