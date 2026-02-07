@@ -1,7 +1,7 @@
 const CONFIG = {
     titleWeb: "From Philile With Love",
     introTitle: "Koobotseng 'Mami'",
-    introDesc: `This world is inherently strang.
+    introDesc: `This world is inherently strange.
     Why do i keep falling for you?
     Lost in this empty heart
     Behind the word "Love" here is affection.
@@ -13,14 +13,16 @@ const CONFIG = {
     
     If the world only gave me one day to show you what you mean to me,
     I'd laugh...
-    Because I've already made it my lifetime mission.`,
-    btnIntro: '^^HiHi^^',
+    Because I've already made it my lifetime mission.
+    
+    Click Continue to foe a surprise`,
+    btnIntro: 'Continue',
     title: 'What do you value the most about us when things were good? 🥰',
-    desc: 'If we were to try again, what would you need from me to feel safe and happy? ',
-    btnYes: 'I Love it <33',
-    btnNo: 'No :3',
+    desc: 'Can we Start over again? ',
+    btnYes: 'Yes',
+    btnNo: 'No',
     question: 'There are over 7 Billion people in this world, Would you still chose me? <3',
-    btnReply: 'Sending this to you <3',
+    btnReply: 'Reply',
     reply: 'You will always be my Love <33333333',
     mess: 'I know 🥰. I love you so much 😘😘',
     messDesc: 'Call me so we can arrange what to do next...maybe massage.',
