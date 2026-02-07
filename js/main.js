@@ -146,7 +146,7 @@ $('#yes').click(function() {
             }).then((result) => {
                 if (result.value) {
                     // Open phone dialer with number
-                    window.location = 'tel:0710722969';
+                    window.location = 'tel:0693091872';
                     
                     // Close the current window (if possible)
                     setTimeout(() => {
