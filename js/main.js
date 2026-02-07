@@ -123,7 +123,7 @@ $('#yes').click(function() {
         html: true,
         width: 900,
         padding: '3em',
-        html: "<input type='text' class='form-control' id='txtReason' onmousemove=textGenerate()  placeholder='Whyyy'>",
+        html: "<input type='text' class='form-control' id='txtReason' onmousemove=textGenerate()  placeholder='Why'>",
         background: '#fff url("img/iput-bg.jpg")',
         backdrop: `
               rgba(0,0,123,0.4)
@@ -145,8 +145,13 @@ $('#yes').click(function() {
                 confirmButtonColor: '#83d0c9',
             }).then((result) => {
                 if (result.value) {
-                    // Dial the phone number
-                    window.location = 'tel:0693091872';
+                    // Open phone dialer with number
+                    window.location = 'tel:0710722969';
+                    
+                    // Close the current window (if possible)
+                    setTimeout(() => {
+                        window.close();
+                    }, 1000);
                 }
             })
         }
