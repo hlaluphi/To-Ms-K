@@ -1,20 +1,29 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    titleWeb: "From Philile With Love",
+    introTitle: "Koobotseng 'Mami'",
+    introDesc: `This world is inherently strang.
+    Why do i keep falling for you?
+    Lost in this empty heart
+    Behind the word "Love" here is affection.
+    
+    I dont need a calenar to remind me to love you - 
+    you are my everyday Holiday, 
+    my favourite season,
+    my reason to smile when nothing else makes sense.
+    
+    If the world only gave me one day to show you what you mean to me,
+    I'd laugh...
+    Because I've already made it my lifetime mission.`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    title: 'What do you value the most about us when things were good? 🥰',
+    desc: 'If we were to try again, what would you need from me to feel safe and happy? ',
+    btnYes: 'I Love it <33',
+    btnNo: 'No :3',
+    question: 'There are over 7 Billion people in this world, Would you still chose me? <3',
+    btnReply: 'Sending this to you <3',
+    reply: 'You will always be my Love <33333333',
+    mess: 'I know 🥰. I love you so much 😘😘',
+    messDesc: 'Call me so we can arrange what to do next...maybe massage.',
+    btnAccept: 'Okay <3',
+    messLink: 'https://github.com/hlaluphi/To-Ms-K' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
