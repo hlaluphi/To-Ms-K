@@ -22,7 +22,7 @@ const CONFIG = {
     btnReply: 'Reply',
     reply: 'You will always be my Love',
     mess: 'I know 🥰. I love you so much 😘😘',
-    messDesc: 'Call me so we can arrange what to do next...maybe massage.',
+    messDesc: "Call me for what's next...",
     btnAccept: 'Okay',
     messLink: 'https://github.com/hlaluphi/To-Ms-K',
     nextPlaylist: 'https://www.youtube.com/watch?v=k6iaF433Ybc&list=PLSToQP3Lb2fWPMm6mcM8xL8c6wbRiZGgI'
